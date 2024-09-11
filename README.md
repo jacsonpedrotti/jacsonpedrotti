@@ -2,33 +2,24 @@
 <br>
 <br>
 
-I'm Jacson Pedrotti, I'm a Front End Programmer, I'm currently learning and creating projects with:
-<br>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-hmtl" />
-<br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java-script" />
-<br>
 
 
 
-### Connect with me:
+## Contato
 
-<p>
-  <a href="https://instagram.com/jacsonpedrotti?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr">
-    <img align=left" alt="icone do instagram uma  camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/jacson-pedrotti-b5064729a/">
-    <img align=left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
+<div>
+    <a href="https://www.linkedin.com/in/jacson-pedrotti-b5064729a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/jacsonpedrotti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/jacsonpedrotti" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/setupcustombr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:pedrottijacson@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/+5548996832721" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 <br>
 <br>
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -43,7 +34,17 @@ I'm Jacson Pedrotti, I'm a Front End Programmer, I'm currently learning and crea
 
 <br><br>
 
+## 📊 Estatísticas
 
 [![Jacson Pedrotti Stats](https://github-readme-stats.vercel.app/api?username=jacsonpedrotti)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacsonpedrotti)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
