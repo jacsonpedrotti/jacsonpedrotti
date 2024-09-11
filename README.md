@@ -17,7 +17,7 @@ About me:
 
 
 
-## 🛠 &nbsp;Tecnologias e Ferramentas
+## 🛠 &nbsp;Programming languages and tools 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -32,7 +32,7 @@ About me:
 
 <br><br>
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 
 <div align="center">
@@ -43,7 +43,7 @@ About me:
 <br>
 <br>
       
-## Contato
+## Contact
 
 <div>
     <a href="https://www.linkedin.com/in/jacson-pedrotti-b5064729a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -53,7 +53,7 @@ About me:
     <a href="mailto:pedrottijacson@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/+5548996832721" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-    ![Snake animation](https://github.com/LuuizPaes/LuuizPaes/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
 <br>
 <br>
