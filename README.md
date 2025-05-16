@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Jacson Pedrotti | Desenvolvedor Full Stack</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Front-End;Especialista+em+React+e+Node.js;SSempre+aprendendo+novas+tecnologias&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Front-End;Especialista+em+React+JavaScript;SSempre+aprendendo+novas+tecnologias&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
   <table>
     <tr>
       <td valign="top">
-        <h3>🎨 Frontend Core</h3>
+        <h3>🎨 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=react,typescript,nextjs" /><br/>
         <img src="https://skillicons.dev/icons?i=javascript,html,css" />
       </td>
