@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Jacson Pedrotti | Desenvolvedor Full Stack</div>
+# <div align="center">👨‍💻 Jacson Pedrotti | Desenvolvedor Front End</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Front-End;Especialista+em+React+JavaScript;SSempre+aprendendo+novas+tecnologias&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
