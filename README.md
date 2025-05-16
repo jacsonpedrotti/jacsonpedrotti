@@ -57,10 +57,6 @@
 
 <div align="center">
 
-<a href="https://github.com/jacsonpedrotti/ecommerce-gamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsonpedrotti&repo=ecommerce-gamer&bg_color=0d1117&hide_border=true&title_color=f75c7e&icon_color=f75c7e&text_color=c9d1d9" />
-</a>
-
 <a href="URL_DO_REPOSITORIO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsonpedrotti&repo=acj-lajes&bg_color=0d1117&hide_border=true&title_color=f75c7e&icon_color=f75c7e&text_color=c9d1d9" />
 </a>
@@ -102,10 +98,10 @@
   <h2>🤝 Vamos Conectar!</h2>
   <p>Estou sempre aberto para colaborar em projetos inovadores e ideias criativas.</p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://seuportfolio.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEU_NUMERO)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://jacsonpedrotti.github.io/portifolio/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5548996832721)
   
-  <p>📫 <strong>Email:</strong> jacsonpedrotti@gmail.com</p>
+  <p>📫 <strong>Email:</strong> pedrottijacson@gmail.com</p>
 </div>
 
 ---
