@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Jacson Pedrotti | Desenvolvedor Full Stack</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Full+Stack;Especialista+em+React+e+Node.js;4%2B+anos+de+experiência;Sempre+aprendendo+novas+tecnologias&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Full+Front-End;Especialista+em+React+e+Node.js;Sempre+aprendendo+novas+tecnologias&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <div align="center">
@@ -57,9 +57,7 @@
 
 <div align="center">
 
-<a href="URL_DO_REPOSITORIO">
-  <img align="center" src="https://site-acj-lajes-responsivo.vercel.app/" />
-</a>
+
 
 ### 🏗️ ACJ Lajes Treliçadas
 > Site responsivo desenvolvido para a ACJ Lajes Treliçadas, utilizando as melhores práticas de design e desenvolvimento web moderno.
@@ -72,7 +70,7 @@
 > - SEO amigável
 > - Interface moderna e intuitiva
 >
-> 🔗 [Visualizar Projeto](URL_DO_SITE)
+> 🔗 [Visualizar Projeto](https://site-acj-lajes-responsivo.vercel.app/)
 
 </div>
 
