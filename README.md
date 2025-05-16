@@ -58,7 +58,7 @@
 <div align="center">
 
 <a href="URL_DO_REPOSITORIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsonpedrotti&repo=acj-lajes&bg_color=0d1117&hide_border=true&title_color=f75c7e&icon_color=f75c7e&text_color=c9d1d9" />
+  <img align="center" src="https://site-acj-lajes-responsivo.vercel.app/" />
 </a>
 
 ### 🏗️ ACJ Lajes Treliçadas
