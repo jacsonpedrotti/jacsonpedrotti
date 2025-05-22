@@ -96,7 +96,7 @@
   <h2>🤝 Vamos Conectar!</h2>
   <p>Estou sempre aberto para colaborar em projetos inovadores e ideias criativas.</p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://jacsonpedrotti.github.io/portifolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-2-0-virid.vercel.app/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5548996832721)
   
   <p>📫 <strong>Email:</strong> pedrottijacson@gmail.com</p>
